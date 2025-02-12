@@ -1,8 +1,0 @@
-%dir /usr/lib/debug
-%dir /usr/lib/debug/.build-id
-%dir /usr/lib/debug/.build-id/a3
-%dir /usr/lib/debug/usr
-%dir /usr/lib/debug/usr/bin
-/usr/lib/debug/.build-id/a3/d623ec14dba25fc442d44ec22cdf840689376b.debug
-/usr/lib/debug/.build-id/a3/d623ec14dba25fc442d44ec22cdf840689376b
-/usr/lib/debug/usr/bin/harbour-ohm.debug
